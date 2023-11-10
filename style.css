@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display:block;
+    padding: 10px;
+    font-family:sans-serif;   
+}
+
+.nav_btns{
+    display: inline;
+    margin: auto;
+}
+.nav_btns a{
+    margin: 2px 115px;
+}
+
+body{
+    background:lightgrey;
+}
+
+.img1{
+    min-width: 150px;
+    
+}
+
+.img2{
+    
+    min-width: 150px;
+
+    
+
+}
+
+.img_container {
+    width: nax-content;
+}
+.video{
+    display: block;
+    margin-left: 350px;
+    margin-right: auto;    
+}
+
+.h_title{
+margin-left:500px ;
+
+}
+.h_text{
+    margin-left:150px ;
+    
+    }
+
+.fam{
+    margin-left: 200px;
+}
+
+.dog2{
+    margin-left:270px;
+}
+
+.dog1{
+    margin-left:100px;
+}
+
